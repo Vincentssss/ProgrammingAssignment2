@@ -1,4 +1,4 @@
-## Carl Vincent R. Asis
+## Asis, Carl Vincent R. 
 
 library(MASS)
 makeCacheMatrix <- function(x = matrix()){
